@@ -1,4 +1,10 @@
-<h3 align="center">👋 Hi there 👋 I'm Shedrack Akintayo!</h3>
+<h3 align="center">Hey Yo!👋  I'm Shedrack Akintayo!</h3>
+
+<p align="center">
+  <a href="https://sheddy.xyz">Blog</a>
+  <a href="https://twitter.com/coder_blvck">Twitter</a>
+  <a href="https://linkedin.com/in/shedrackakintayo">LinkedIn</a>
+</p>
 
 I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/pages/talks).
 
@@ -6,10 +12,10 @@ I'm trying to embrace constant learning, growing and I'm currently working towar
 
 I currently do Developer Advocacy 🥑 things at [Cloud Foundry Foundation](https://cloudfoundry.org) and it's a really fun job.
 
-I'm quite interested in improving the experience of developer centered products, I aim to make developers happy 😄
+These days, I'm quite interested in developer experience, Javascript Build tools and also Cloud Native Tech😄
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Cloud Native Technologies
+- 🌱 I’m currently learning about Cloud Native Technologies(Cloud Foundry, k8s)
 - 💬 Ask me about Javascript, Technical Writing, Developer Advocacy, Music 😉
 - ⚡ Fun fact: I can't touch my toes while standing 😆
 
