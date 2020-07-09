@@ -12,7 +12,7 @@ I'm trying to embrace constant learning, growing and I'm currently working towar
 
 I currently do Developer Advocacy 🥑 things at [Cloud Foundry Foundation](https://cloudfoundry.org) and it's a really fun job.
 
-These days, I'm quite interested in developer experience, Javascript Build tools and also Cloud Native Tech😄
+These days, I'm quite interested in Developer Experience, Javascript Build Tools and also Cloud Native Tech😄
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about Cloud Native Technologies(Cloud Foundry, k8s)
