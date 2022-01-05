@@ -1,4 +1,4 @@
-<h3 align="center">Hey Yo!👋  I'm Shedrack Akintayo!</h3>
+<h3 align="center"> Hey Yo! 👋  I'm Shedrack Akintayo! </h3>
 
 <p align="center">
   <a href="https://sheddy.xyz">Blog</a> ||
