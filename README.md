@@ -10,7 +10,7 @@ I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/page
 
 I'm trying to embrace constant learning, growing and I'm currently working towards becoming a better version of myself.
 
-I currently do Developer Relations 🥑 things at [Platform.sh](https://platform.sh), where we are working on giving you the complete PaaS platform.
+I currently do Developer Relations 🥑 things at [Platform.sh](https://platform.sh), where we are working on giving developers the complete PaaS platform.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about Blockchain, Solidity. Ethereum, NodejsCloud Native Technologies(Cloud Foundry, k8s)
