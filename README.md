@@ -10,10 +10,10 @@ I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/page
 
 I'm trying to embrace constant learning, growing and I'm currently working towards becoming a better version of myself.
 
-I currently do Developer Relations 🥑 things at [Platform.sh](https://platform.sh), where we are working on giving developers the complete PaaS platform.
+I currently lead Developer Relations 🥑 and community management at [Wilco](https://trywilco.com), where we are working on giving developers the complete platform to pratice and improve their software engineering skilss.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Blockchain, Solidity. Ethereum, Nodejs, Cloud Native Technologies(Cloud Foundry, k8s)
+- 🌱 I’m currently learning about Video Editing, Nodejs, Cloud Native Technologies(Cloud Foundry, k8s)
 - 💬 Ask me about Javascript, Technical Writing, Developer Advocacy, Music 😉
 - ⚡ Fun fact: I can't touch my toes while standing 😆
 
