@@ -13,7 +13,7 @@ I'm trying to embrace constant learning, growing and I'm currently working towar
 I currently lead Developer Relations 🥑 and Community at [Wilco](https://trywilco.com), where we are working on giving developers the complete platform to pratice and improve their software engineering skilss.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Video Editing, Nodejs, Cloud Native Technologies(Cloud Foundry, k8s)
+- 🌱 I’m currently learning about Video Editing, Nodejs, Cloud Native Technologies(K8s, Cilium)
 - 💬 Ask me about Javascript, Technical Writing, Developer Advocacy, Music 😉
 - ⚡ Fun fact: I can't touch my toes while standing 😆
 
