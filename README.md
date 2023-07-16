@@ -8,13 +8,13 @@
 
 I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/pages/talks).
 
-I'm trying to embrace constant learning, growing and I'm currently working towards becoming a better version of myself.
+I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
 
-I currently lead Developer Relations 🥑 and Community at [Wilco](https://trywilco.com), where we are working on giving developers the complete platform to pratice and improve their software engineering skilss.
+I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) Communities at [Isovalent](https://isovalent.com), where we are working on eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Video Editing, Nodejs, Cloud Native Technologies(K8s, Cilium)
-- 💬 Ask me about Javascript, Technical Writing, Developer Advocacy, Music 😉
+- 🌱 I’m currently learning about Video Editing, Go, Cloud Native Technologies(K8s, Cilium, Shell Scripting, Terraform)
+- 💬 Ask me about Javascript, Cilium, Technical Writing, Developer Advocacy, and Music 😉
 - ⚡ Fun fact: I can't touch my toes while standing 😆
 
 
