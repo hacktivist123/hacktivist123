@@ -52,6 +52,10 @@ I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) comm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [On Self Awareness](https://medium.com/@Sheddy_Nathan/on-self-awareness-388066339fa7?source=rss-5d6838035bf------2)
+- [What is GitOps and Why Should Developers Care?](https://blog.getambassador.io/what-is-gitops-and-why-should-developers-care-d0402aa1f733?source=rss-5d6838035bf------2)
+- [How to Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8?source=rss-afc9ec09febd------2)
+- [Approaching Developer Relations in an Open Source Foundation](https://medium.com/cloud-foundry-foundation/approaching-developer-relations-in-an-open-source-foundation-77b1c660bf95?source=rss-afc9ec09febd------2)
 <!-- BLOG-POST-LIST:END -->
 
 
