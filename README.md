@@ -1,10 +1,19 @@
-<h3 align="center"> Hey Yo! 👋  I'm Shedrack Akintayo! </h3>
 
-<p align="center">
-  <a href="https://sheddy.xyz">Blog</a> ||
-  <a href="https://twitter.com/coder_blvck">Twitter</a> ||
-  <a href="https://linkedin.com/in/shedrackakintayo">LinkedIn</a> 
-</p>
+
+<div align="center" id="badges">
+  <a href="https://linkedin.com/in/shedrackakintayo">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="(https://twitter.com/coder_blvck)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=hacktivist123&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h3 align="center"> Hey Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
 
 I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/pages/talks).
 
