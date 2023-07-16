@@ -56,6 +56,10 @@ I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) comm
 - [What is GitOps and Why Should Developers Care?](https://blog.getambassador.io/what-is-gitops-and-why-should-developers-care-d0402aa1f733?source=rss-5d6838035bf------2)
 - [How to Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8?source=rss-afc9ec09febd------2)
 - [Approaching Developer Relations in an Open Source Foundation](https://medium.com/cloud-foundry-foundation/approaching-developer-relations-in-an-open-source-foundation-77b1c660bf95?source=rss-afc9ec09febd------2)
+- [How To Deploy a Static Site&lpar;Gatsby&rpar; to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-static-site-gatsby-to-kubernetes-with-cloud-foundry-ee31b5131c5f?source=rss-afc9ec09febd------2)
+- [How to Deploy a Django App to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-django-app-to-kubernetes-with-cloud-foundry-5ad332fbe197?source=rss-afc9ec09febd------2)
+- [Deploy a Nodejs App on Cloud Foundry Pt.3 — Hello World to Real World](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-3-hello-world-to-real-world-888ab83a329c?source=rss-afc9ec09febd------2)
+- [Deploy a NodeJS App on Cloud Foundry Pt. 2 — Services](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-2-services-33e76ed62be9?source=rss-afc9ec09febd------2)
 <!-- BLOG-POST-LIST:END -->
 
 
