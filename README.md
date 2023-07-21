@@ -21,7 +21,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) communities at [Isovalent](https://isovalent.com). At Isovalent, we are working on products for eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Video Editing, Go, Cloud Native Technologies (K8s, Cilium, Shell Scripting, Terraform)
+- 🌱 I’m currently learning about Linux, Shell Scripting, Go, Cloud Native Technologies (K8s, Cilium, Terraform)
 - 💬 Ask me about Javascript, Cilium, Technical Writing, Developer Advocacy, and Music 😉
 - ⚡ Fun fact: I can't touch my toes while standing 😆
 
