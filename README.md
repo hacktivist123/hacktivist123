@@ -47,7 +47,8 @@ I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) comm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacktivist123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Shedrack's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=havktivst123&theme=redical&hide_border=true)](#!)
+
+[![Hacktivist123 GitHub stats](https://github-readme-stats.vercel.app/api?username=hacktivist123&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
 ### :writing_hand: Blog Posts :
 
