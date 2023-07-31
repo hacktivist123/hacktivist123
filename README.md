@@ -21,7 +21,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) communities at [Isovalent](https://isovalent.com). At Isovalent, we are working on products for eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Linux, Shell Scripting, Go, Cloud Native Technologies (K8s, Cilium, Terraform)
+- 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Cilium, Terraform)
 - 💬 Ask me about Javascript, Cilium, Technical Writing, Developer Advocacy, and Music 😉
 - ⚡ Fun fact: I can't touch my toes while standing 😆
 
@@ -62,19 +62,3 @@ I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) comm
 - [Deploy a Nodejs App on Cloud Foundry Pt.3 — Hello World to Real World](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-3-hello-world-to-real-world-888ab83a329c?source=rss-afc9ec09febd------2)
 - [Deploy a NodeJS App on Cloud Foundry Pt. 2 — Services](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-2-services-33e76ed62be9?source=rss-afc9ec09febd------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-<!--
-**hacktivist123/hacktivist123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
