@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=hacktivist123&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h3 align="center"> Hey Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
+<h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
 
 I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/pages/talks).
 
