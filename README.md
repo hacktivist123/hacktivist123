@@ -18,7 +18,9 @@ I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/page
 
 I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
 
-I am currently a Technical Marketing Engineer, [Isovalent](https://isovalent.com) at [Cisco](cisco.com) responsible for running the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) communities. At Cisco/Isovalent, we are working on products for eBPF-based networking, security, and observability.
+I am currently a Technical Marketing Engineer, [Isovalent](https://isovalent.com) at [Cisco](cisco.com) responsible for running the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) communities. 
+
+At Isovalent, we are working on products for eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Cilium, Terraform)
