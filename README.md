@@ -14,7 +14,7 @@
 
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
 
-I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/pages/talks).
+I love to [write](https://sheddy.xyz), code, and [teach]([https://sheddy.xyz/pages/talks](https://www.youtube.com/playlist?app=desktop&list=PLsGzjZLGKzenpCCBLrjo70JjTBQdSXbcg).
 
 I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
 
