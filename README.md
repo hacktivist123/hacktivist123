@@ -25,7 +25,7 @@ At Isovalent, we are working on products for eBPF-based networking, security, an
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Cilium, Terraform)
 - 💬 Ask me about Go, Kubernetes, Cloud Native, Cilium, Technical Writing, Developer Advocacy, and Music 😉
-- ⚡ Fun fact: I know Muay Thai 😆
+- ⚡ Fun fact: I'm learning Muay Thai 😆
 
 ### :hammer_and_wrench: Languages and Tools
 
