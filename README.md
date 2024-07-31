@@ -23,7 +23,7 @@ I am currently a Technical Marketing Engineer, [Isovalent](https://isovalent.com
 At Isovalent, we are working on products for eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Cilium, Terraform)
+- 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Docker, Cilium, Terraform)
 - 💬 Ask me about Go, Kubernetes, Cloud Native, Cilium, Technical Writing, Developer Advocacy, and Music 😉
 - ⚡ Fun fact: I'm learning Muay Thai 😆
 
