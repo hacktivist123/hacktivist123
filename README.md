@@ -14,13 +14,11 @@
 
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
 
+I am a Cloud Native DevOps Engineer, and Senior Technical Writer with over 7 years professional expertise in Software Development & Developer Education.
+
 I love to [write](https://sheddy.xyz), code, and [teach](https://www.youtube.com/playlist?app=desktop&list=PLsGzjZLGKzenpCCBLrjo70JjTBQdSXbcg).
 
 I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
-
-I am currently a Technical Marketing Engineer at [Isovalent](https://isovalent.com)/[Cisco](cisco.com), responsible for running the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) communities. 
-
-At Isovalent, we are working on products for eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Docker, Cilium, Terraform)
