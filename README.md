@@ -14,7 +14,7 @@
 
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
 
-I am a Cloud Native DevOps Engineer, and Senior Technical Writer with over 7 years professional expertise in Software Development & Developer Education.
+I am a Cloud Native DevOps Engineer, and Senior Technical Writer with over 8 years professional expertise in Software Development & Developer Education.
 
 I love to [write](https://sheddy.xyz), code, and [teach](https://www.youtube.com/playlist?app=desktop&list=PLsGzjZLGKzenpCCBLrjo70JjTBQdSXbcg).
 
