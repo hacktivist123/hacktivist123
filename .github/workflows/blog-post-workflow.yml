@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "8"
-          feed_list: "https://medium.com/feed/@sakintayo,https://medium.com/feed/@sheddy_nathan"
+          feed_list: "https://medium.com/feed/@sakintayo,https://medium.com/feed/@sheddy_nathan,https://www.sheddy.xyz/feed.xml"
