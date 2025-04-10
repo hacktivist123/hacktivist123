@@ -41,9 +41,6 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
 </div>
 
-### :fire: GH Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=hacktivist12&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacktivist123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
