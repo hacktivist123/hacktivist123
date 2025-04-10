@@ -53,12 +53,12 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On Self Awareness](https://medium.com/@Sheddy_Nathan/on-self-awareness-388066339fa7?source=rss-5d6838035bf------2)
-- [What is GitOps and Why Should Developers Care?](https://blog.getambassador.io/what-is-gitops-and-why-should-developers-care-d0402aa1f733?source=rss-5d6838035bf------2)
-- [How to Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8?source=rss-afc9ec09febd------2)
-- [Approaching Developer Relations in an Open Source Foundation](https://medium.com/cloud-foundry-foundation/approaching-developer-relations-in-an-open-source-foundation-77b1c660bf95?source=rss-afc9ec09febd------2)
-- [How To Deploy a Static Site&lpar;Gatsby&rpar; to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-static-site-gatsby-to-kubernetes-with-cloud-foundry-ee31b5131c5f?source=rss-afc9ec09febd------2)
-- [How to Deploy a Django App to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-django-app-to-kubernetes-with-cloud-foundry-5ad332fbe197?source=rss-afc9ec09febd------2)
-- [Deploy a Nodejs App on Cloud Foundry Pt.3 — Hello World to Real World](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-3-hello-world-to-real-world-888ab83a329c?source=rss-afc9ec09febd------2)
-- [Deploy a NodeJS App on Cloud Foundry Pt. 2 — Services](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-2-services-33e76ed62be9?source=rss-afc9ec09febd------2)
+- [Interface Implementation in Go](http://sheddy.xyz/blog/interface-implementation)
+- [Setting Up Local SSH Access on Arch Linux from a Mac](http://sheddy.xyz/blog/setting-up-ssh-access-on-arch-linux-from-a-mac)
+- [Fixup Commit in Git](http://sheddy.xyz/blog/fixup-commit-in-git)
+- [Understanding SSL/TLS Certificates and Public Key Infrastructure &lpar;PKI&rpar;](http://sheddy.xyz/blog/ssl-tls-certificates-pki)
+- [Services in Linux](http://sheddy.xyz/blog/services-in-linux)
+- [Graph Databases vs. Traditional Relational Databases: A Comparison](http://sheddy.xyz/blog/graph-databases-vs-relational-databases)
+- [Understanding Slice Modification in Go: Pointers vs. append&lpar;&rpar;](http://sheddy.xyz/blog/modifying-slices-in-go)
+- [Kubernetes Network Security with Cilium](http://sheddy.xyz/blog/intro-to-kubernetes-networking-with-cilium)
 <!-- BLOG-POST-LIST:END -->
