@@ -50,6 +50,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Pull Base: Elegant Concurrency with Go&#39;s Context System](http://sheddy.xyz/blog/building-pullbase-concurrency-with-go)
 - [Interface Implementation in Go](http://sheddy.xyz/blog/interface-implementation)
 - [Setting Up Local SSH Access on Arch Linux from a Mac](http://sheddy.xyz/blog/setting-up-ssh-access-on-arch-linux-from-a-mac)
 - [Fixup Commit in Git](http://sheddy.xyz/blog/fixup-commit-in-git)
@@ -57,5 +58,4 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 - [Services in Linux](http://sheddy.xyz/blog/services-in-linux)
 - [Graph Databases vs. Traditional Relational Databases: A Comparison](http://sheddy.xyz/blog/graph-databases-vs-relational-databases)
 - [Understanding Slice Modification in Go: Pointers vs. append&lpar;&rpar;](http://sheddy.xyz/blog/modifying-slices-in-go)
-- [Kubernetes Network Security with Cilium](http://sheddy.xyz/blog/intro-to-kubernetes-networking-with-cilium)
 <!-- BLOG-POST-LIST:END -->
