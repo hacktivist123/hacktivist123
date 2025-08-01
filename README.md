@@ -50,6 +50,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging Go Test Suites: Build Tags, Parallel Testing, and Proper Async Patterns](http://sheddy.xyz/blog/supercharging-go-test-suites)
 - [Building Pull Base - Type-Safe Database Operations in Go](http://sheddy.xyz/blog/type-safe-database-operations-in-go)
 - [Building Pull Base: Elegant Concurrency with Go&#39;s Context System](http://sheddy.xyz/blog/building-pullbase-concurrency-with-go)
 - [Interface Implementation in Go](http://sheddy.xyz/blog/interface-implementation)
@@ -57,5 +58,4 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 - [Fixup Commit in Git](http://sheddy.xyz/blog/fixup-commit-in-git)
 - [Understanding SSL/TLS Certificates and Public Key Infrastructure &lpar;PKI&rpar;](http://sheddy.xyz/blog/ssl-tls-certificates-pki)
 - [Services in Linux](http://sheddy.xyz/blog/services-in-linux)
-- [Graph Databases vs. Traditional Relational Databases: A Comparison](http://sheddy.xyz/blog/graph-databases-vs-relational-databases)
 <!-- BLOG-POST-LIST:END -->
