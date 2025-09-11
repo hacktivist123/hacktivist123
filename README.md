@@ -50,6 +50,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Connecting to Google Kubernetes Engine &lpar;GKE&rpar; Clusters Locally](http://sheddy.xyz/blog/connecting-to-gke-clusters-locally)
 - [Supercharging Go Test Suites: Build Tags, Parallel Testing, and Proper Async Patterns](http://sheddy.xyz/blog/supercharging-go-test-suites)
 - [Building Pull Base - Type-Safe Database Operations in Go](http://sheddy.xyz/blog/type-safe-database-operations-in-go)
 - [Building Pull Base: Elegant Concurrency with Go&#39;s Context System](http://sheddy.xyz/blog/building-pullbase-concurrency-with-go)
@@ -57,5 +58,4 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 - [Setting Up Local SSH Access on Arch Linux from a Mac](http://sheddy.xyz/blog/setting-up-ssh-access-on-arch-linux-from-a-mac)
 - [Fixup Commit in Git](http://sheddy.xyz/blog/fixup-commit-in-git)
 - [Understanding SSL/TLS Certificates and Public Key Infrastructure &lpar;PKI&rpar;](http://sheddy.xyz/blog/ssl-tls-certificates-pki)
-- [Services in Linux](http://sheddy.xyz/blog/services-in-linux)
 <!-- BLOG-POST-LIST:END -->
