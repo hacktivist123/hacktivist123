@@ -21,9 +21,9 @@ I love to [write](https://sheddy.xyz), code, and [teach](https://www.youtube.com
 I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Docker, Cilium, Terraform)
+- 🌱 I’m currently learning DevOps with Go, Linux, Cloud Native Technologies and AI
 - 💬 Ask me about Go, Kubernetes, Cloud Native, Cilium, Technical Writing, Developer Advocacy, and Music 😉
-- ⚡ Fun fact: I'm learning Muay Thai 😆
+- ⚡ Fun fact: I practice  Muay Thai 😆
 
 ### :hammer_and_wrench: Languages and Tools
 
