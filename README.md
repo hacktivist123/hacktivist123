@@ -41,11 +41,6 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacktivist123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Hacktivist123 GitHub stats](https://github-readme-stats.vercel.app/api?username=hacktivist123&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
 ### :writing_hand: Blog Posts :
 
