@@ -45,6 +45,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Ingress-NGINX Is Dying and Kubernetes Is Better for It](http://sheddy.xyz/blog/ingress-nginx-is-dying-and-kubernetes-is-better-for-it)
 - [Understanding and Building AI Agents](http://sheddy.xyz/blog/introduction-to-ai-agents)
 - [Hands-On with Kubernetes v1.34 New EnvFiles Feature](http://sheddy.xyz/blog/k8s-1.34-supply-env-files-with-init-containers)
 - [Connecting to Google Kubernetes Engine &lpar;GKE&rpar; Clusters Locally](http://sheddy.xyz/blog/connecting-to-gke-clusters-locally)
@@ -52,5 +53,4 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 - [Building Pull Base - Type-Safe Database Operations in Go](http://sheddy.xyz/blog/type-safe-database-operations-in-go)
 - [Building Pull Base: Elegant Concurrency with Go&#39;s Context System](http://sheddy.xyz/blog/building-pullbase-concurrency-with-go)
 - [Interface Implementation in Go](http://sheddy.xyz/blog/interface-implementation)
-- [Setting Up Local SSH Access on Arch Linux from a Mac](http://sheddy.xyz/blog/setting-up-ssh-access-on-arch-linux-from-a-mac)
 <!-- BLOG-POST-LIST:END -->
