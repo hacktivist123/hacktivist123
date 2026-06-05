@@ -45,12 +45,12 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On Self Awareness](https://medium.com/@Sheddy_Nathan/on-self-awareness-388066339fa7?source=rss-5d6838035bf------2)
-- [What is GitOps and Why Should Developers Care?](https://blog.getambassador.io/what-is-gitops-and-why-should-developers-care-d0402aa1f733?source=rss-5d6838035bf------2)
-- [How to Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8?source=rss-afc9ec09febd------2)
-- [Approaching Developer Relations in an Open Source Foundation](https://medium.com/cloud-foundry-foundation/approaching-developer-relations-in-an-open-source-foundation-77b1c660bf95?source=rss-afc9ec09febd------2)
-- [How To Deploy a Static Site&lpar;Gatsby&rpar; to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-static-site-gatsby-to-kubernetes-with-cloud-foundry-ee31b5131c5f?source=rss-afc9ec09febd------2)
-- [How to Deploy a Django App to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-django-app-to-kubernetes-with-cloud-foundry-5ad332fbe197?source=rss-afc9ec09febd------2)
-- [Deploy a Nodejs App on Cloud Foundry Pt.3 — Hello World to Real World](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-3-hello-world-to-real-world-888ab83a329c?source=rss-afc9ec09febd------2)
-- [Deploy a NodeJS App on Cloud Foundry Pt. 2 — Services](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-2-services-33e76ed62be9?source=rss-afc9ec09febd------2)
+- [Best Practices for Writing Agent Skills](https://sheddy.xyz/blog/best-practices-for-writing-agent-skills/)
+- [Moving Codex App Chat History and Context to a New Mac](https://sheddy.xyz/blog/moving-codex-app-history/)
+- [How I Run OpenClaw Behind Traefik and Tailscale in My Homelab](https://sheddy.xyz/blog/how-i-run-openclaw-behind-traefik-and-tailscale-in-my-homelab/)
+- [How I Actually Work With AI &lpar;OpenCode, Antigravity, Claude, and Codex&rpar;](https://sheddy.xyz/blog/how-i-actually-work-with-ai-opencode-antigravity-codex/)
+- [Ingress-NGINX Is Dying and Kubernetes Is Better for It](https://sheddy.xyz/blog/ingress-nginx-is-dying-and-kubernetes-is-better-for-it/)
+- [Understanding and Building AI Agents](https://sheddy.xyz/blog/introduction-to-ai-agents/)
+- [Hands-On with Kubernetes v1.34 New EnvFiles Feature](https://sheddy.xyz/blog/k8s-134-supply-env-files-with-init-containers/)
+- [Connecting to Google Kubernetes Engine &lpar;GKE&rpar; Clusters Locally](https://sheddy.xyz/blog/connecting-to-gke-clusters-locally/)
 <!-- BLOG-POST-LIST:END -->
