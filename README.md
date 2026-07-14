@@ -45,12 +45,12 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Writing Agent Skills](https://sheddy.xyz/blog/best-practices-for-writing-agent-skills/)
-- [Moving Codex App Chat History and Context to a New Mac](https://sheddy.xyz/blog/moving-codex-app-history/)
-- [How I Run OpenClaw Behind Traefik and Tailscale in My Homelab](https://sheddy.xyz/blog/how-i-run-openclaw-behind-traefik-and-tailscale-in-my-homelab/)
-- [How I Actually Work With AI &lpar;OpenCode, Antigravity, Claude, and Codex&rpar;](https://sheddy.xyz/blog/how-i-actually-work-with-ai-opencode-antigravity-codex/)
-- [Ingress-NGINX Is Dying and Kubernetes Is Better for It](https://sheddy.xyz/blog/ingress-nginx-is-dying-and-kubernetes-is-better-for-it/)
-- [Understanding and Building AI Agents](https://sheddy.xyz/blog/introduction-to-ai-agents/)
-- [Hands-On with Kubernetes v1.34 New EnvFiles Feature](https://sheddy.xyz/blog/k8s-134-supply-env-files-with-init-containers/)
-- [Connecting to Google Kubernetes Engine &lpar;GKE&rpar; Clusters Locally](https://sheddy.xyz/blog/connecting-to-gke-clusters-locally/)
+- [Building a Simple MCP Sandbox for My Poke Assistant](https://www.sheddy.xyz/blog/building-a-simple-mcp-sandbox-for-poke/)
+- [Best Practices for Writing Agent Skills](https://www.sheddy.xyz/blog/best-practices-for-writing-agent-skills/)
+- [Moving Codex App Chat History and Context to a New Mac](https://www.sheddy.xyz/blog/moving-codex-app-history/)
+- [How I Run OpenClaw Behind Traefik and Tailscale in My Homelab](https://www.sheddy.xyz/blog/how-i-run-openclaw-behind-traefik-and-tailscale-in-my-homelab/)
+- [How I Actually Work With AI &lpar;OpenCode, Antigravity, Claude, and Codex&rpar;](https://www.sheddy.xyz/blog/how-i-actually-work-with-ai-opencode-antigravity-codex/)
+- [Ingress-NGINX Is Dying and Kubernetes Is Better for It](https://www.sheddy.xyz/blog/ingress-nginx-is-dying-and-kubernetes-is-better-for-it/)
+- [Understanding and Building AI Agents](https://www.sheddy.xyz/blog/introduction-to-ai-agents/)
+- [Hands-On with Kubernetes v1.34 New EnvFiles Feature](https://www.sheddy.xyz/blog/k8s-134-supply-env-files-with-init-containers/)
 <!-- BLOG-POST-LIST:END -->
