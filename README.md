@@ -45,6 +45,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building AI Agents That Refuse to Guess](https://www.sheddy.xyz/blog/building-ai-agents-that-refuse-to-guess/)
 - [How I Self-Host GBrain for Multiple Coding Agents](https://www.sheddy.xyz/blog/how-i-self-host-gbrain-for-multiple-coding-agents/)
 - [Building a Simple MCP Sandbox for My Poke Assistant](https://www.sheddy.xyz/blog/building-a-simple-mcp-sandbox-for-poke/)
 - [Best Practices for Writing Agent Skills](https://www.sheddy.xyz/blog/best-practices-for-writing-agent-skills/)
@@ -52,5 +53,4 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 - [How I Run OpenClaw Behind Traefik and Tailscale in My Homelab](https://www.sheddy.xyz/blog/how-i-run-openclaw-behind-traefik-and-tailscale-in-my-homelab/)
 - [How I Actually Work With AI &lpar;OpenCode, Antigravity, Claude, and Codex&rpar;](https://www.sheddy.xyz/blog/how-i-actually-work-with-ai-opencode-antigravity-codex/)
 - [Ingress-NGINX Is Dying and Kubernetes Is Better for It](https://www.sheddy.xyz/blog/ingress-nginx-is-dying-and-kubernetes-is-better-for-it/)
-- [Understanding and Building AI Agents](https://www.sheddy.xyz/blog/introduction-to-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
